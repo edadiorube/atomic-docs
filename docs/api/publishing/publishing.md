@@ -1,6 +1,4 @@
-# The Atomic Network
-
-## Publishing
+# Publishing API
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. In iaculis nunc sed augue lacus viverra vitae congue. Ut etiam sit amet nisl purus. Senectus et netus et malesuada fames ac turpis egestas. Mauris vitae ultricies leo integer malesuada. Lectus nulla at volutpat diam ut. Sodales neque sodales ut etiam sit. Feugiat nibh sed pulvinar proin gravida hendrerit lectus a. Cursus in hac habitasse platea dictumst quisque sagittis purus. Ultrices in iaculis nunc sed. At quis risus sed vulputate odio. Viverra maecenas accumsan lacus vel facilisis.
 

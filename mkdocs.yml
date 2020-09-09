@@ -3,3 +3,4 @@ theme:
   name: material
   features:
     - tabs
+  logo: atomicapilogo.png
